@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Tests",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "pytest",
+            "justMyCode": false,
+            "args": [
+                "tests"
+            ]
+        }
+    ]
+}
